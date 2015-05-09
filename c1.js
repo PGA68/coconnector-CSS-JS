@@ -1,4 +1,4 @@
-!function($, W, D, M, wc, u7d){	// 
+﻿!function($, W, D, M, wc, u7d){	// 
     'use strict';
     var
         phjs = '/gap/js/',	// path for js
