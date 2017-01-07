@@ -5,4 +5,4 @@ This pico-rutina for downloading small code-pieces.
 Simple add class with prefix 'dynload-', and next part in classname is js, and in last part is css files.
 Example: class="dynload-jsname-cssname" - load jsname.js and classname.css.
 
-Tags: #jQuery, #components
+Tags: #jQuery, #components, #bundling
